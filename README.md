@@ -23,7 +23,7 @@ SELECT * FROM Perusahaan;
 
 **_Output :_**
 
-![alt text](ss/inputdata_dept.png)
+![alt text](ss/inputdata_perusahaan.png)
 
 **_Query MySQL Pada Tabel Departemen_**
 
